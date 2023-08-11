@@ -1,6 +1,6 @@
 ## End to End ML-modular project with deployment
 
-AWS deployment:
+##AWS deployment:
 
 ##Docker setup in EC2
 1. sudo apt-get update -y
