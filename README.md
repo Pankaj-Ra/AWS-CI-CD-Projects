@@ -9,10 +9,10 @@ AWS deployment:
 4. sudo sh get-docker.sh
 5. sudo usermod -aG docker ubuntu
 6. newgrp docker
-##configure ec2 as self hosted runner
-##setup github secrets
-AWS_ACCESS_KEY_ID
-AWS_SECRET_ACCESS_KEY
-AWS_REGION = ap-south-1
-AWS_ECR_LOGIN_URI = 275234131660.dkr.ecr.ap-south-1.amazonaws.com
-ECR_REPOSITORY_NAME = student_performance
+7. ##configure ec2 as self hosted runner
+8. ##setup github secrets
+9. AWS_ACCESS_KEY_ID
+10. AWS_SECRET_ACCESS_KEY
+11. AWS_REGION = ap-south-1
+12. AWS_ECR_LOGIN_URI = 275234131660.dkr.ecr.ap-south-1.amazonaws.com
+13. ECR_REPOSITORY_NAME = student_performance
