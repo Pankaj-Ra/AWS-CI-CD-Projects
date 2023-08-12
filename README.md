@@ -9,8 +9,8 @@
 4. sudo sh get-docker.sh
 5. sudo usermod -aG docker ubuntu
 6. newgrp docker
-## configure ec2 as self hosted runner
-## setup github secrets
+## Configure EC2 as self hosted runner
+## Setup github secrets
 7. AWS_ACCESS_KEY_ID
 8. AWS_SECRET_ACCESS_KEY
 9. AWS_REGION = ap-south-1
