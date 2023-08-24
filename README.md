@@ -15,4 +15,4 @@
 8. AWS_SECRET_ACCESS_KEY
 9. AWS_REGION = ap-south-1
 10. AWS_ECR_LOGIN_URI = 275234131660.dkr.ecr.ap-south-1.amazonaws.com
-11. ECR_REPOSITORY_NAME = student_performance
+11. ECR_REPOSITORY_NAME = ml-project-aws
